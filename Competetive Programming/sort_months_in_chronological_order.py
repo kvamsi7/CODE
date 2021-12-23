@@ -34,3 +34,15 @@ if __name__ == '__main__':
     sorted_list = sort_the_months(inp_arr)
 
     print(sorted_list)
+
+
+'''
+Test Case 1
+input : 5 3 6 12 1 2
+output : ['January', 'February', 'March', 'May', 'June', 'December']
+
+Test Case 2
+input : 12 5 6 3 2 3 1 5
+output : ['January', 'February', 'March', 'March', 'May', 'May', 'June', 'December']
+
+'''
